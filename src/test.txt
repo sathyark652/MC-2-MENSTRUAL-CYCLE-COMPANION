@@ -1,0 +1,322 @@
+{
+    "Headache":
+        [
+        {
+            "EduInfo":"Headaches in women, especially migraines, are related to changes in the levels of estrogen. Levels of estrogen drop immediately before the start of your menstrual flow.
+            Premenstrual migraines regularly occur during or after the time when the female hormones, estrogen and progesterone, drop to their lowest levels.
+            Migraine attacks usually improve during pregnancy. 
+            However, some women have reported that their migraines started during the first trimester of pregnancy, and then went away.
+            thus stopping or preventing a migraine.
+            Other prescription drugs used to treat migraine include:
+            opioids
+            glucocorticoids
+            dihydroergotamine and ergotamine
+            If you experience severe vomiting or nausea with a menstrual migraine, ask your doctor about prescription anti-nausea medication.",
+        },
+        {
+            "Food":
+            []
+                "Traditional":
+                [
+                [
+                "Ginger_tea",
+                "1.Add sliced or chopped ginger to 4 cups of boiling water 2.	Steep for 5 to 10 minutes. Steeping longer will give it a stronger flavor 3.Remove from heat and flavor with lemon juice, honey, or sugar. It can be consumed either hot or cold",
+                "T_gingertea.jpg",
+                "",
+                "Sipping ginger tea is another tasty way to help sooth headache pain or reduce the nausea caused by a migraine attack. Try drinking the tea when your headache firststarts.",
+                ],
+                [
+                "ColdTherapy",
+                "Wrap an ice pack in a towel and apply it to your forehead (10 minutes on, 10 minutesoff)",
+                "",
+                "",
+                "Cold therapy can reduce inflammation and dull the sensation of pain.", 
+                ],
+                [
+                "Sleep",
+                "Take your bedsheet slowly ,take your pillow  and slowly close your eyes! ",
+                "",
+                "",
+                "Too little sleep can make headaches worse. Aim for at least seven to nine hours of sleep each night. Improve your sleep environment for better rest. Turn off the TV and lights, and keep your room at a comfortable temperature.",     
+                ],
+                [
+                "massage",
+                "",
+                "",
+                "",
+                "Massage therapy can promote muscle relaxation and reduce tension in your shoulders, back, and neck.
+                It may also reduce the severity and frequency of tension headaches and migraine attacks.
+                "
+                ],
+                [
+                "green_leaves",
+                " Cruciferous vegetables contain hormonally active compounds called phytoestrogens, which can have estrogenic, or estrogen-like, effects in humans — or conversely, antiestrogenic effects.\\\\Spinach, Swiss chard, and other leafy greens are great sources of magnesium, which can decrease or even prevent migraine in some cases",
+                "T_broco.jpg",
+                "T_spinach.jpg",
+                "",
+                ],
+                [
+                "fruits",
+                "Bananas are a great food for quick energy recovery, and they’re high in magnesium, which can be helpful when people have headaches///Watermelon also has a lot of water in it.Getting plenty of water — both by drinking it and by consuming foods that contain lots of water — will help you stay hydrated.",
+                "T_banana.jpg",
+                "T_watermelon.jpg",
+                "T_sb.jpg"
+                ]
+            ],
+            "Modern":
+            [
+                [
+                "Balm",
+                "soothing Menstrual Balm brings relief, comfort and pampering to ease period pain.",
+                "It has been carefully crafted to ease cramps, spasms, soreness, bloating and anxiety which accompany periods for so many women.If your ponytail is too tight, it could cause a headache. These external compression headaches can also be brought on by wearing a hat, headband, or even swimming goggles that are too tight.",
+                "Mbalm.jpg",
+                "Mbalm1.jpg",
+                "",
+                ]   
+            ],
+        },
+            "Exercise":
+            [
+                [
+                "H_e1.jpg",
+                "H_exe.jpg",
+                "Exercise",
+                "https://youtube.com/shorts/9bqkYzKjpio?feature=share"
+                ],
+                [
+                "H_e4.jpg",
+                "H_yoga.jpg",
+                "Whether you choose brisk walking, jogging, swimming, or cycling, you’re more likely to stick to your routine if you enjoy the activity.Start with low-impact exercises that won’t jostle your body too much hatha yoga might be particularly efficacious for someone with migrainebecause it actually works on some of the mechanisms we see, such as neck pain and stiffness,anxiety, catastrophizing about pain, and stress reduction,” he says.",
+                "https://youtu.be/7sVuwRn9yUw" 
+                ],
+            ],
+            "Doctor":"See a doctor if you have frequent and severe headaches during your period. Yourdoctor can discuss the possibility of hormone therapy or prescribe medication.
+                    You should also see a doctor for any headache that has the following symptoms:
+                    mental confusion,seizures,double vision,numbness,trouble speaking,These headaches may not be related to your period, but rather to a serious medical condition."
+        }
+        ]
+}]
+
+
+//         "Cramps":
+//         {
+//             "EduInfo":"Menstrual cramps are throbbing, aching cramps you get in your lower belly just before and during your period. 
+//             They’re some of the most common, annoying parts of your period. They can strike right before or during that time of the month. 
+//             Many women get them routinely.
+//             Cramps can range from mild to severe",
+//             "Food":
+//             {
+//             "Traditional":
+//                 [
+//                 {
+//                 "ajwan":{
+//                 "image":"T_ajwan.jpg",
+//                 "Video":"",
+//                 "Info":"Take Ajwain Tea for relief in the muscular cramps.Add 2 generous pinches of Ajwain in 2cups of water and boil it until it reduces to half. Strain add honey and drink two to three times a day.",      
+//                 "info1":"This simple kitchen herb is very effective in dealing with a range of muscular and abdominal cramps, either caused by menses or because of digestive distress"
+//                 },
+//             "methi":{
+                
+//                 "image":"T_methi.jpg",
+//                 "Video1":"",
+//                 "Info":"Soak a teaspoon of Methi in a glass or normal water overnight. Next morning, drink it whole with the seeds if possible, or you may choose to strain the seeds out. Mix a small pinch of black salt if you wish."
+//             },
+//             "juggery":{
+                
+//                 "Info":"Jaggery is a great Vatapacifier. Substitute sugar with jaggery at least 3 to 5 days beforeyou anticipate your period cycle to begin.",
+                
+//                 "Info1":"A great way to combine Methi-Ajwain and Gudd is to make small M&M-sized balls with these three ingredients.
+//         You can take 2-3of these on an empty stomach with a sip of warm water"
+//             },
+//             "aloevera":{
+//                 "Info":"Aloe is a woman’s best friend. ",
+//                 "Info2":"Drink a glass of aloe vera juice on an empty stomach every morning and you will see your health improving drastically. If you can’t take it daily, then consider drinking it 3 to 5days before cramps set it. You can continue drinking it throughout your periods.",
+//             },
+//             "fruits":{
+//                 "Info":"Lemons are rich in vitamins, particularly vitamin C. Vitamin C helps your body absorbiron from your food into your bloodstream and tissues. Because you may be losing more red blood cells than your body can keep up with during your period, it may be helpful to have some extra vitamin C to boost iron absorption",
+//                 "Info2":"Oranges contain more vitamin C than lemons, and they also contain magnesium, potassium, and vitamin D.",
+//                 "Info3":"Drink excess water",
+//             }
+//         }
+//             ]
+//             "Modern":
+//             [
+//             "dev1":{
+//             "Image": "M_Dev.jpg",
+//             "Video":"",
+//             "Info":"You Can attach below your abdomen when there is more pain and it will reduce the pain",
+//             },
+//             "dev2":{
+//             "Image": "M_dev1.jpg",
+//             "Video":"",
+//             "Info":"",
+//             }
+//             ]
+//             "Exercise":[
+//                 "Ex1":{"Image":"Exer1.jpg" ,
+//                 "Info":"Lie on your back, bend your knees and tilt your pelvis upward, hold for 5seconds and then relax." },
+                
+//                 "Ex2":{"Image":"Exer2.jpg" ,
+//                 "Info":"Lie on your back and raise both legs upward, hold for 5 seconds and then lower them." },
+                
+//                 "Ex3":{"Image":"Exer3.jpg" ,
+//                 "Info":"Child's pose, downward dog and cat-cow stretch can help ease menstrual cramps." },
+//                 "Ex5":{"Image":"Exer4.jpg" ,
+//                 "Info":"Light exercises such as walking, cycling, or swimming canhelp improve circulation and relieve cramps" },
+                
+//                 "Ex4":{"Image":"Exer5.jpg" ,
+//                 "Info":"" ,
+//                 "url":"https://www.youtube.com/watch?v=kSLMAUoTzgE"},
+                
+//                 ],
+//             "Doctor":"You should contact your doctor if you have severe pain and very heavy bleeding. See adoctor if:
+//         the pain consistently prevents you from doing day-to-day activities
+//         the pain worsens or bleeding gets heavier over time
+//         you’re over 25 and severe cramps are a new development
+//         OTC medication doesn’t work
+//         for severe cases,the best way to get treatment is for a doctor to diagnose the cause of your menstrual pain."
+
+//     }
+// }
+
+Fatigue:
+{
+	EduInfo:{"Common and frequently reported by people.Occurs due to hormonal changes"}
+	Food:{
+	Traditional:
+	[  Therapy:{ 
+	   Recipe:"ashwaganda root powder,Ginger,Turmeric",
+	   Image: "ashwaganda_fatigue",
+	   Video:"",
+	   Info:"Take a teaspoon of ashwaganda root powder and Boil it with pinch of Ginger.Later Cool the mixture and add honey or can also try Turmeric in milk",  
+	   }
+	]
+	Modern:
+	[
+	   Therapy:{
+	   Image: "Citalopram_Fatigue",
+	   Video:"",
+	   Info:"Serotin reuptake inhibitors(SSRI’s),Iburfin.Maintaining correct room temperature and keep body hydrated",
+	   }
+	]
+	Exercise:[
+	    Ex1:{Image:Breathing_Fatigue,Info:Breathing exercises }
+		Ex2:{Image:Meditation_Fatigue,Info:Meditation and workout }
+		]
+	Doctor:{"Goes beyond home remedies.Difficulty in performing daily activities.Debilitating PMS symptoms 
+}
+	
+
+Bloating:
+{
+	EduInfo:{"Swollen abdomen at initial stage,Reduced level of progesterone which leads to shredding of lining in uretrus,hydrates our body which leads to bloating of cells ,Avoid rich carbohydrates food"}
+	Food:{
+	Traditional:
+	[  Therapy:{ 
+	   Recipe:"CCF(Cumin,Coriander,Fennel) tea,ajwan(carom seeds) and rock salt,Potassium rich foods,Natural diuretics",
+	   Image:"Traditional_Bloating",
+	   Video:"",
+	   Info:"Avoid drinking excess of water during these times,Drink CCF(Cumin,Coriander,Fennel) tea thrice a day.Teaspoon of ajwan(carom seeds) and rock salt in warm water.Potassium rich foods like veggies, avocado, tomatoes.Natural diuretics include: pineapple, cucumber and garlic ",  
+	   }
+	]
+	Modern:
+	[
+	   Therapy:{
+	   Image:"Modern_Bloating",
+	   Video:"",
+	   Info:"Gynoveda PMS Relief piles ",
+	   }
+	]
+	Exercise:[
+	    Ex1:{Image:Torso_Twist_Bloating ,Info:Torso Twist }
+		Ex2:{Image:Triangular_Post_Bloating ,Info:Extended triangle poses}
+		Ex3:{Image:Spinx_Bloating,Info:Sphinx Pose}
+		Ex4:{Image:Cow_Cat_Bloating ,Info:Cat-Cow Yoga poses}
+		]
+	Doctor:{"Continues for few days even after mensural.Severe enough to affect daily activities 
+}
+	
+	
+
+BreastTenderness:
+{
+	EduInfo:{"Common concern among women,PMS,There is chance of fibro cystic breast diseases which might lead to lumps in breasts,Expected to cure by end of mensural,May lead to severity,Caused due to fluctuating hormones,Might experience severity in middle of cycle "}
+	Food:{
+	Traditional:
+	[  Therapy:{ 
+	   Recipe:"Vitamin E,Primrose oil,Chasteberry,Turmeric",
+	   Image: "Tradition_BT",
+	   Video:"",
+	   Info:"Taking nutritious food : Peanuts , Spinach, hazelnuts , corn ,olive , avacados ,carrots and safflower.Limiting your caffein intake."
+	   }
+	]
+	Modern:
+	[
+	   Therapy:{
+	   Image:"Modern_BT",
+	   Video:"",
+	   Info:"Massage,Apply warm and cold compresses,Application of Vitex Chaste Tree reduces inflammation ,Intake of Crampin, Nolvadex , bromocriptine",
+	   }
+	]
+	Exercise:[
+	    Ex1:{Image:Plank_BT,Info:Plankreach-undert }
+		Ex2:{Image:Travelling_Plank_BT ,Info:Traveling plank }
+		Ex3:{Image:Stability_BT ,Info:Stabilityballdumbbellfly}
+		]
+	Doctor:{"Difficulty to sleep or perform daily tasks,Unilateral lumos,After performing self test examine,Temporary discomfort and sensation 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+Fatique:
+Info:
+•Common and frequently reported by people.Occurs due to hormonal changes 
+	
+Recipe:
+Traditional:
+•	Take a teaspoon of ashwaganda root powder 
+•	Boil it with pinch of Ginger 
+•	Cool the mixture and add honey 
+
+•	Turmeric in milk 
+Modern:
+  Medication :
+•	Serotin reuptake inhibitors(SSRI’s)
+•	Iburfin
+Yoga and exercises:
+•	Maintaining correct room temperature 
+•	Meditation
+•	Breathing exercises 
+•	Workout 
+•	Keeping your body hydrated 
+
+Doctor:
+•	Goes beyond home remedies 
+•	Difficulty in performing daily activities
+•	Debilitating PMS symptoms 
+
+
+
+
+
