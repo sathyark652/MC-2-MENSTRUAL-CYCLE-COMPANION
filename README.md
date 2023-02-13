@@ -1,15 +1,13 @@
 # MC^2-Menstrual-Cycle-Companion
 
 
-### This application focuses to break barriers and revolutionize menstrual health care access, ultimately defeating traditional taboos, and empowering every community to live healthier and happier lives.
+###The goal of this project is to dismantle obstacles and change access to menstrual health care, ultimately shattering long-standing taboos and enabling every community to lead healthier and happier lives.
+How does this work?
 
-## How is this done?
+By creating a user-friendly programme that helps rural women who are experiencing menstruation discomfort by educating them, offering emotional support, and making individualised treatment recommendations that include diet, yoga, and exercise. A user's conditions and symptoms are gathered using an interface made up of short questions and visuals that provide clarification, which is especially helpful for rural areas.
 
-By developing a user-friendly application to support rural women during menstrual discomfort by providing awareness, backed by moral support and personalized treatment recommendations inclusive of nutrition, yoga, and exercise. The user's conditions and symptoms are collected through an interface consisting of simple questions aided with supporting images that is especially useful for the rural, enabling clear understanding.
-
-## Steps Involved: 
-
-1. Data Gathering : Done by going through various articles, papers and blogs regarding menstrual health and gathering specific images and videos to make the UI simple and easy to use. This was then structured and stored in JSON format.
+Steps required:
+Data collection: Conducted by reading through numerous publications, papers, and blogs about menstruation health and obtaining particular photos and videos to keep the user interface (UI) straightforward and basic. This was then structured and stored in JSON format.
 
 2. Building the application using Javascript and ReactJS.
 
