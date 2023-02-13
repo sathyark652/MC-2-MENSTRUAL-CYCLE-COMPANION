@@ -1,7 +1,7 @@
 # MC^2-Menstrual-Cycle-Companion
 
 
-###The goal of this project is to dismantle obstacles and change access to menstrual health care, ultimately shattering long-standing taboos and enabling every community to lead healthier and happier lives.
+### The goal of this project is to dismantle obstacles and change access to menstrual health care, ultimately shattering long-standing taboos and enabling every community to lead healthier and happier lives.
 How does this work?
 
 By creating a user-friendly programme that helps rural women who are experiencing menstruation discomfort by educating them, offering emotional support, and making individualised treatment recommendations that include diet, yoga, and exercise. A user's conditions and symptoms are gathered using an interface made up of short questions and visuals that provide clarification, which is especially helpful for rural areas.
@@ -14,7 +14,7 @@ Data collection: Conducted by reading through numerous publications, papers, and
 ## Screenshots:
 
 To check Application screenshots: 
-
+https://github.com/sathyark652/MC-2-MENSTRUAL-CYCLE-COMPANION/tree/main/Snapshots
 
 ## To run the code:
 
