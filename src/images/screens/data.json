@@ -1,0 +1,96 @@
+{
+    "Headache":{
+    "name" : "Headache",
+    "website" : "Headaches in women, especially migraines, are related to changes in the levels of estrogen. Levels of estrogen drop immediately before the start of your menstrual flow.",
+    "Exercise" : "H_e1.jpg",
+    "Video":"9bqkYzKjpio",
+    "Food" :[
+        {"id": "1", "name" : "Ginger_tea"},
+        {"id": "2", "name" : "ColdTherapy"},
+        {"id": "3", "name" : "Ibuprofen"}
+    ]
+    },
+    "Tenderness":{
+        "name" : "Tenderness",
+        "website" : "Headaches in women, especially migraines, are related to changes in the levels of estrogen. Levels of estrogen drop immediately before the start of your menstrual flow.",
+        "Exercise" : "H_e1.jpg",
+        "Video":"FSsO6dwxs7k",
+        "Food" :[
+            {"id": "1", "name" : "Primrose-Oil"},
+            {"id": "2", "name" : "Chasteberry"},
+            {"id": "3", "name" : "Turmeric"}
+        ]
+        },
+    "Cramps":{
+        "name" : "Cramps",
+        "website" : "Menstrual cramps are throbbing, aching cramps you get in your lower belly just before and during your period.",
+        "Exercise" : "Exer1.jpg",
+        "Video":"kSLMAUoTzgE",
+        "Food" :[
+            {"id": "1", "name" : "ajwan"},
+            {"id": "2", "name" : "methi"},
+            {"id": "3", "name" : "aloevera"}
+        ]
+    },
+    "Fatigue":{
+        "name" : "Fatigue",
+        "website" : "Common and frequently reported by people.Occurs due to hormonal changes",
+        "Exercise" : "Exer1.jpg",
+        "Video":"DMdrNBwAONs",
+        "Food" :[
+            {"id": "1", "name" : "Ashwaganda"},
+            {"id": "2", "name" : "Ginger"},
+            {"id": "3", "name" : "honey"}
+        ]
+    },
+    "Bloating":{
+        "name" : "Bloating",
+        "website" : "Menstrual cramps are throbbing, aching cramps you get in your lower belly just before and during your period.",
+        "Exercise" : "Exer1.jpg",
+        "Video":"IvAx7q2LKqk",
+        "Food" :[
+            {"id": "1", "name" : "Veggies"},
+            {"id": "2", "name" : "Rock-salt"},
+            {"id": "3", "name" : "garlic"}
+        ]
+    },
+    "Acne":{
+        "name" : "Acne",
+        "website" : "Menstrual cramps are throbbing, aching cramps you get in your lower belly just before and during your period.",
+        "Exercise" : "Exer1.jpg",
+        "Video":"jhU0FqryrY8",
+        "Food" :[
+            {"id": "1", "name" : "Veggies"},
+            {"id": "2", "name" : "methi"},
+            {"id": "3", "name" : "aloevera"}
+        ]
+    },
+    "Nausea":{
+        "name" : "Nausea",
+        "website" : "Menstrual cramps are throbbing, aching cramps you get in your lower belly just before and during your period.",
+        "Exercise" : "Exer1.jpg",
+        "Video":"9iHlon28UoM",
+        "Food" :[
+            {"id": "1", "name" : "garlic"},
+            {"id": "2", "name" : "ginger"}
+        ]
+    },
+    "Backpain ":{
+        "name" : "Backpain",
+        "website" : "Menstrual cramps are throbbing, aching cramps you get in your lower belly just before and during your period.",
+        "Exercise" : "Exer1.jpg",
+        "Video":"6VAnQXeQUL8",
+        "Food" :[
+            {"id": "1", "name" : "compresses"},
+            {"id": "2", "name" : "Nolvadex"},
+            {"id": "3", "name" : "Massage"}
+        ]
+    }
+    
+    
+}
+
+
+
+
+
