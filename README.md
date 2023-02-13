@@ -22,4 +22,4 @@ https://github.com/sathyark652/MC-2-MENSTRUAL-CYCLE-COMPANION/tree/main/Snapshot
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-### This project was built during Heal-O-Code 2023 24 Hour Hackathon and was placed 11th out of 140+ teams
+### It was built as part of the Heal-O-Code 2023 24-Hour Hackathon and was recognized with a special mention(11th place) among 140+ teams.
